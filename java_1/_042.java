@@ -1,6 +1,6 @@
 import java.util.*;
 public class _042 {
-        public static void main(String[] args) {
+            public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int student=sc.nextInt();
         int [][] marks =new int[student][];
